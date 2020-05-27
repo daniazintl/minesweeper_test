@@ -1,4 +1,4 @@
 # minesweeper_test
-play minesweeper in termin
+play minesweeper in terminal
 
 just for fun
